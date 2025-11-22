@@ -1,0 +1,52 @@
+[
+  {
+    "pergunta": "Qual o maior planeta do sistema sola?",
+    "alternativas": ["Júpiter", "Saturno", "Marte", "Terra"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Em que continente fica o Egito?",
+    "alternativas": ["Europa", "Oceania", "África", "Ásia"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem foi o criador do universo de Star Wars?",
+    "alternativas": ["Steven Spielberg", "George Lucas", "James Cameron", "Ridley Scott"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Em qual filme aparece o personagem Thanos?",
+    "alternativas": ["Thor: Ragnarok", "Homem de Ferro", "Guardiões da Galáxia 1", "Vingadores: Guerra Infinita"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o país mais populoso do mundo (2024)?",
+    "alternativas": ["Índia", "China", "Rússia", "EUA"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual país com o maior território do mundo?",
+    "alternativas": ["Índia", "China", "Rússia", "EUA"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantos jogadores um time de futebol tem em campo??",
+    "alternativas": ["8", "15", "13", "11"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem é o super-herói cujo alter ego é Bruce Wayne?",
+    "alternativas": ["Superman", "Batman", "Flash", "Arqueiro verde"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual país é conhecido como “Terra do Sol Nascente”?",
+    "alternativas": ["Japão", "Espanha", "Brasil", "EUA"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Que animal é o maior mamífero do mundo?",
+    "alternativas": ["Elefante", "Girafa", "Hipopótamo", "Baleia-azul"],
+    "correta": 0
+  }
+]
